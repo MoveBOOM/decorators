@@ -1,0 +1,20 @@
+Дата: 17.12.23 | Время: 16:58:10
+<function test_2.<locals>.hello_world at 0x00000244AE7BFC10>
+(){}
+Hello World
+
+Дата: 17.12.23 | Время: 16:58:10
+<function test_2.<locals>.summator at 0x00000244AE7C00D0>
+(2, 2){}
+4
+
+Дата: 17.12.23 | Время: 16:58:10
+<function test_2.<locals>.div at 0x00000244AE7BFEE0>
+(6, 2){}
+3.0
+
+Дата: 17.12.23 | Время: 16:58:10
+<function test_2.<locals>.summator at 0x00000244AE7C00D0>
+(4.3,){'b': 2.2}
+6.5
+
